@@ -5,4 +5,4 @@ cp ../prog/index.php ../bbdd/consultas.sql
 4. mkdir si/git
 5. cd si/git/
 6. touch ../../login
-7. rm bbdd/consultas.sql
+7. rm ../../bbdd/consultas.sql
